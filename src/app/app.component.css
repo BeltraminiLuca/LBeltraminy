@@ -1,0 +1,26 @@
+p {
+  font-family: Lato;
+}
+
+div{
+  
+  font-size: 15px;
+  font-weight: 400;
+  color: #000000;
+  background: #d6d6d6;
+  margin: 0 0 25px;
+  overflow: hidden;
+  padding: 3px;
+  border: 2px solid black;
+  border-radius: 6%;
+  }
+
+div{
+  padding:15px 15px 20px 15px;
+  font-family: sans-serif;
+  border: 2px solid black;
+  background:#F5F5F5;
+  margin-bottom:30px;
+  line-height:26px !important;
+  border-radius: 6%;
+  }

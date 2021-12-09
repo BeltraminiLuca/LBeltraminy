@@ -1,0 +1,13 @@
+p {
+  font-family: Lato;
+  font-style: italic;
+}
+
+.read-more {
+  outline: none;
+    border: 2px;
+    color: blue;
+    background: none;
+    cursor: pointer;
+}
+
